@@ -1,0 +1,32 @@
+.header {
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.headerTwo {
+    background-color: #FBEAEB;
+    color: #2F3C7E;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    background-color: #FBEAEB;
+    color: #2F3C7E;
+}
+
+.homeIMG {
+    height: auto;
+    width: 150px;
+}
+
+.recipeIMG {
+    heigh: auto;
+    width: 500px;
+}
+
+.homeButton {
+    font-size: 30px;
+    background-color:#2F3C7E;
+    color:#FBEAEB;
+}
