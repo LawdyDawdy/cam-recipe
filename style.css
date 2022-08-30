@@ -27,6 +27,14 @@
 
 .homeButton {
     font-size: 30px;
-    background-color:#2F3C7E;
     color:#FBEAEB;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.imgButton {
+    padding: 0;
+    border: none;
+    background: none;
 }
